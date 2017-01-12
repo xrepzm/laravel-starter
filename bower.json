@@ -1,0 +1,20 @@
+{
+  "name": "laravel-starter",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Nandor Dudas <x.rep.zm@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "semantic": "semantic-ui#^2.2.7"
+  }
+}
